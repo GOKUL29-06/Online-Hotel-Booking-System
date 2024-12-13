@@ -61,12 +61,10 @@ To enable Lombok in your IDE:
 
 ## Usage
 
-## Admin Login:
-      Admins can manage hotel information, bookings, and customer records across all hotels in the system.
-## Manager Login:
-      Managers can only manage bookings and customer records for their specific hotel(s).
-## User Login: 
-      Users can search for hotels, book rooms, and view their booking history.
+**Admin Login**: Admins can manage hotel information, bookings, and customer records across all hotels in the system.  
+**Manager Login**: Managers can only manage bookings and customer records for their specific hotel(s).  
+**User Login**: Users can search for hotels, book rooms, and view their booking history.
+
 
 ## Development Process
 
