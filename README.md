@@ -73,4 +73,5 @@ To enable Lombok in your IDE:
 - **The development of OHBS follows Agile methodologies, allowing iterative improvements based on feedback and testing. This ensures the application is both flexible and scalable.**
 
 ## Screenshots
+![Login]([path-to-image-file](https://github.com/GOKUL29-06/Online-Hotel-Booking-System/blob/65ec9bc2034d825b1f02bbcd8dcb50c9852290fe/Screenshots/1.png))
 
