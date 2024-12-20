@@ -88,6 +88,12 @@ To enable Lombok in your IDE:
 ![Login](https://github.com/GOKUL29-06/Online-Hotel-Booking-System/raw/65ec9bc2034d825b1f02bbcd8dcb50c9852290fe/Screenshots/4.png)
 
 
+<div style="text-align: center;">
+  <img src="https://github.com/GOKUL29-06/Online-Hotel-Booking-System/raw/6e7e72f2b765a497e381bb4a625e11d96536a3fd/Booking-GIF/Booking.gif" alt="Booking GIF" width="80%" />
+</div>
+
+
+
 
 
 
