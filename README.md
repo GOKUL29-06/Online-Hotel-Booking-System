@@ -1,9 +1,8 @@
 # Online Hotel Booking System (OHBS)
 
 
-<div style="text-align: center;">
-  <img src="https://github.com/GOKUL29-06/Online-Hotel-Booking-System/raw/6e7e72f2b765a497e381bb4a625e11d96536a3fd/Booking-GIF/Booking.gif" alt="Booking GIF" width="100%" />
-</div>
+![Booking GIF](https://github.com/GOKUL29-06/Online-Hotel-Booking-System/raw/6e7e72f2b765a497e381bb4a625e11d96536a3fd/Booking-GIF/Booking.gif)
+
 
 
 **OHBS** is a web-based hotel booking platform built using **Agile methodologies**. This system allows users to search for hotels, book rooms, and manage their bookings, while admins and managers can manage hotel details, bookings, and customer information. The platform also includes email notifications and payment gateway integration for seamless bookings.
