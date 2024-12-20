@@ -1,7 +1,9 @@
 # Online Hotel Booking System (OHBS)
 
 
-![Booking GIF](https://github.com/GOKUL29-06/Online-Hotel-Booking-System/raw/6e7e72f2b765a497e381bb4a625e11d96536a3fd/Booking-GIF/Booking.gif)
+<div style="text-align: center;">
+  <img src="https://github.com/GOKUL29-06/Online-Hotel-Booking-System/raw/6e7e72f2b765a497e381bb4a625e11d96536a3fd/Booking-GIF/Booking.gif" alt="Booking GIF" width="100%" />
+</div>
 
 
 
